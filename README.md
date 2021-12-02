@@ -14,7 +14,7 @@ This is a mini project on Leaflet. Citi Bike API is used to get the status and l
 
 The following image shows the basic map:
 
-    ![Citibike](Images/44-Citibike_basic.png)
+![Citibike](images/tamasree.github.io_citi_bike_project_.png)
 
 *[GitHub Page link](https://tamasree.github.io/citi_bike_project/)
 
@@ -32,6 +32,6 @@ The following image shows the basic map:
   * [Leaflet.ExtraMarkers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
   * [Leaflet legend documentation](http://leafletjs.com/examples/choropleth/#custom-legend-control)
   
-  ---
-
-  © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
+## Contact Info
+*[Linkedin Link](www.linkedin.com/in/tamasree-sinha)
+*[Email id](tamasree.g@gmail.com)
