@@ -33,5 +33,5 @@ The following image shows the basic map:
   * [Leaflet legend documentation](http://leafletjs.com/examples/choropleth/#custom-legend-control)
   
 ## Contact Info
-*[Linkedin Link](www.linkedin.com/in/tamasree-sinha)
-*[Email id](tamasree.g@gmail.com)
+* [Linkedin Link](https://www.linkedin.com/in/tamasree-sinha/)
+* Email id :tamasree.g@gmail.com
